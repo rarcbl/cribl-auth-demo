@@ -27,3 +27,7 @@ npm start
 ## Environment
 
 See `.env.example` for required variables.
+
+
+## Team 
+This repo belongs to C021 AI team. 
